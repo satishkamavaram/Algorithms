@@ -2,7 +2,7 @@ package com.satish.algorithms;
 
 /**
  * Given different coins in ATM machine. 
- * Provided total returns number of coins of each type.
+ * Find minimum number of coins required to collect total amount.
  * @author satishkamavaram
  *
  */
